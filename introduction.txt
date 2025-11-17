@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+My name is Samuel P. Wanderi. I graduated highschool in 2024 and I am currently taking a gap year to acquire a scholarship through Swaniker Scholars via ALX Pathway Program. 
+I am determined to get it and build a great future for myself. I am 19 years old and have a passion for Data Science which will be my major and I have always loved Mathematics which 
+will be my minor. This is very important but as much as I try to downplay it, it lingers on my mind 24/7. I am Kenyan and I want to be an epitome to anyone that may have dreams as big as mine.
+I want to show them it is possible. This my first repository and I hope for the best from here on out. If you are reading this wish me luck!
