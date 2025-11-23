@@ -1,0 +1,3 @@
+In this course, I’ve learned the fundamentals of using Git and GitHub, including how to track changes, create commits, work with branches, and push updates to a remote repository. 
+I now understand how version control helps organize projects, collaborate with others, and maintain a clear history of changes. 
+This knowledge has made me more confident in managing code and working on real-world development workflows.
